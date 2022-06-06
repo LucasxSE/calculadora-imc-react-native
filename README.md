@@ -1,2 +1,2 @@
-# calculadora-imc-react-native
-Calculadora de IMC utilizando React-Native e Expo
+# Calculadora IMC - App Mobile
+% Calculadora de IMC utilizando React-Native e Expo
