@@ -6,9 +6,15 @@ _Calculadora básica de IMC utilizando React-Native e Expo_
 * [``React Navigation``](https://reactnavigation.org/docs/getting-started/) foi a documentação utilizada como base para fazer navegação entre páginas do aplicativo;
 - Foi necessária a instalação das seguintes dependências do React Navigation:
 > @react-navigation/native
->
-> react-native-screens
->
-> react-native-safe-area-context
 > 
 > @react-navigation/native-stack
+> 
+> @react-navigation/material-bottom-tabs
+> 
+> react-native-paper
+> 
+> react-native-screens
+> 
+> react-native-vector-icons
+>
+> react-native-safe-area-context
