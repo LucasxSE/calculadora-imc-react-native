@@ -1,4 +1,6 @@
 # Calculadora IMC - App Mobile
 Calculadora básica de IMC utilizando React-Native e Expo
-* Para máscara dos inputs foi utilizado um componente externo, o "react-native-masked-text"
-* Para navegação entre páginas foram utilizados componentes do React Navigation
+
+* [``"react-native-masked-text"``](https://github.com/benhurott/react-native-masked-text) foi a dependência instalada para utilização de máscara nos inputs;
+* ``TextInputMask`` é o componente que substitui o ``TextInput`` e que permite a adição de máscara de texto;
+* [``React Navigation]
